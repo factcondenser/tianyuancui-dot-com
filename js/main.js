@@ -1,1 +1,1 @@
-$('#magazine').turn({gradients: true, acceleration: true});
+$('#baoziBdayStory').turn({gradients: true, acceleration: true});
